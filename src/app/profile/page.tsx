@@ -1,6 +1,5 @@
 import Dashboard from '@/components/Dashboard'
 import DashboardMain from '@/components/DashboardMain'
-import NavBar from '@/components/NavBar'
 import React from 'react'
 
 function Profile() {

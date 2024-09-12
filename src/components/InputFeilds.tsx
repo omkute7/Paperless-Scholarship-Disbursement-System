@@ -1,6 +1,6 @@
 import React from 'react'
 
-function InputFeilds(inputKey, inputLabel) {
+function InputFeilds(inputKey:any , inputLabel:any) {
   return (
     <div>
          <p className='mb-3'>{inputLabel}</p>
